@@ -1,0 +1,16 @@
+{
+  "name": "luccadevises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "LuccaDevises.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "export NODE_ENV=dev && ./node_modules/.bin/eslint --fix . ; exit 0"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.15"
+  }
+}
